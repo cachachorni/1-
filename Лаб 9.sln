@@ -16,6 +16,7 @@ Global
 		{F029DD73-A329-48EB-8322-644C36624E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F029DD73-A329-48EB-8322-644C36624E06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	прикол
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
